@@ -8,7 +8,7 @@ sitemap:
   priority: 1.0
 ---
 
-***bI/O*** is a prison seminar outreach program coordinated by scientists at the [University of Michigan](https://umich.edu) to engage with the Parnall Correctional Facility in Jackson, MI.
+***bI/O*** is a prison seminar outreach program coordinated by scientists at the [University of Michigan](https://umich.edu) to engage with the [Parnall Correctional Facility](https://www.michigan.gov/corrections/prisons/parnall-correctional-facility) in Jackson, MI.
 We work with prison officials to schedule sessions 2-3 times per semester.
 Each session, a panel of 3 researchers present a **15-20 minute talk about their science and career path** in a **seminar-style format**.
 Organizers workshop presentation materials with presenters to make sure it is accessible and follows the strict guidelines of the correctional facility.
