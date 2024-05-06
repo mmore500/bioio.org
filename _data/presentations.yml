@@ -26,3 +26,12 @@
   seminar: "April 2024"
   title: From bugs and slugs to plant metabolomics
   abstract: Chemical defenses are found in all plant life, with some species producing hundreds to thousands of unique compounds. In my research, I am interested in how these chemicals influence the interactions between plants and the organisms that eat them - namely insect herbivores. Scientists have hypothesized that higher biodiversity and population sizes in tropical regions near the equator should result in increased plant defenses (like chemistry) against more diverse and dense populations of insect herbivores. My research tests this hypothesis in the North American tree trembling aspen and finds evidence that chemical defense is indeed higher towards the equator. These results have broad implications for human use of plant defensive chemicals including pharmaceutical discovery, agricultural pest resistance, and the future of these services in the face of climate change.
+- person_key: juanita
+  seminar: "April 2024"
+  title: Intelligence in paper wasps!
+  abstract: One of the main hypotheses for the evolution of cognition suggests that social dynamics became so complex that it became necessary to learn and remember individuals. It's further unclear if this leads towards specific cognitive domains or generalized cognition.  I tested two populations of wasps that can and cannot individually recognize conspecifics across many cognitive domains in order to understand if differences in social cognition would also impact other cognitive domains. I found that only social cognition was impacted thus suggesting that individual recognition evolved as a specific cognitive ability in paper wasps.
+- person_key: zach
+  seminar: "April 2024"
+  title: Where in the world did your ancestors live?
+  abstract: |
+    Where did your ancestors come from? How have they moved across the planet, and what information can we use to answer these questions? In this talk, I examine two ubiquitous patterns in nature: the increase in pedigree ancestors you have backward in time, and the rapid rate at which your ancestors disperse across the planet. Coupling these, we can generate mathematical models for predicting the barriers to movement, how big historical population sizes were, and the geographic origin of the human species.

@@ -64,3 +64,17 @@
     - presenter-2024-02
   institution: Ecology and Evolutionary Biology
   bio: I'm a community and evolutionary ecologist interested in the ways that plants interact with microorganisms in the soil and the creatures that eat them (herbivores).
+- key: juanita
+  nick: Juanita
+  stage: graduate student
+  role:
+    - presenter-2024-04
+  institution: Ecology and Evolutionary Biology
+  bio: I am a scientist interested in how behavior evolves and develops. I study this using paper wasps that use individual recognition to manage dominance hierarchies and aggression. I've previously worked with meerkats, lizards, and turtles at Zoo Atlanta.
+- key: zach
+  nick: Zach
+  stage: postdoc
+  role:
+    - presenter-2024-04
+  institution: Ecology and Evolutionary Biology
+  bio: Evolutionary biologist specializing in population genetics. I am passionate about evolution education, the history and philosophy of science, and confronting misinformation about science. I run a YouTube channel (talkpopgen) dedicated to this. My research focuses on understanding ancestry and how organisms migrate across complex landscapes.
