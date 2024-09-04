@@ -1,27 +1,15 @@
-- person_key: anah
-  seminar: "September 2023"
-  title: How does agriculture affect wild plants?
-  abstract: I became a scientist because I like to figure things out and solve problems. I started to become interested in herbicides impact on the environment when I began working in a lab at University of Michigan. The herbicide Dicamba poses many problems in agriculture because once it has been sprayed on weeds, it can evaporate and spread onto wild plants. However, because it is being spread in the air, it is affecting plants at a much lower dose than what is recommended in the field. This can lead to all kinds of unexpected impacts. By using the scientific method, I can observe how some plants react to dicamba and analyze how they express their genes differently.
-- person_key: roberto
-  seminar: "November 2023"
-  title: How to make a toxic frog?
-  abstract: Animals use toxins for a variety of purposes, such as avoiding predation or hunting prey. However, in order to do this, they need to be able to avoid their own toxin's noxious effects. In this talk I first discuss my work on how poison frogs are able to resist their own powerful toxins, and what this can teach us to successfully and safely use toxins for human purposes, such as medicine and agriculture. Second, I share some of the "daily life" aspects of my job as a scientist, as well as some of the common career paths taken by people with a STEM education.
-- person_key: jill
-  seminar: "November 2023"
-  title: What can under-studied fungi teach us about fundamental life processes?
-  abstract: Much of Fungal diversity has been underappreciated, and under-represented, in research; the same is true for viral diversity. In this talk, I argue that by studying these under-represented entities, we not only gain new knowledge but the kind of knowledge that we gain changes some of our fundamental understandings about both fungi and viruses altogether, and even beyond.
-- person_key: rosy
-  seminar: "February 2024"
-  title: The Wild World of Plant Hairs
-  abstract: Plants can't run away from the things that want to eat them, but they can still defend themselves! Many plants do this by producing hairs, technically known as trichomes, that damage, catch, or even poison potential plant consumers. Trichomes come in all shapes and sizes, but we know surprisingly little about how they function and evolve over time. My research focuses on the elaborate barbed trichomes produced by a group of plants called “stickleafs” or “blazingstars” (family Loasaceae).  I study how they vary across species and how they help the plants defend themselves. Along the way, I've learned a lot about plant-insect interactions, survival in harsh environments, and the extraordinary diversity of life on earth.
-- person_key: andrea
-  seminar: "February 2024"
-  title: Bird Migration
-  abstract: Learning about the whereabouts of birds throughout their migration journeys is important to identify locations for conservation since many populations are experiencing declines. Range maps and geolocators are two ways to do this, and in my master's thesis, I compared both methods to see how well they characterized avian movement patterns. I also talked about my background, how I got to graduate school, and organizations I'm interested in working for when I graduate.
-- person_key: mia
-  seminar: "February 2024"
-  title: Uncovering the importance of the plant microbiome
-  abstract: Microorganisms are everywhere, from the soil beneath your feet to inside the bodies of plants and animals. Despite their abundance, we are still understanding the important functions microorganisms play in host ecology and evolution. My research explores how soil-dwelling microbes can help plants cope with stresses such as drought and protect themselves against herbivore attacks. By expanding our understanding of the microbial world beneath our feet, we may be able to develop more effective and sustainable agricultural practices.
+- person_key: matthew
+  seminar: "September 2024"
+  title: Intro to Scientific Software
+  abstract: What is computer programming needed for science? These days, most researchers rely on at least some computer coding for data analysis, simulations, and problem solving. Outside of science, computer programming is becoming a more and more useful skill, too. Getting started isn't as hard as you might think. In this talk, we'll demystify what computer programming is and what it's like to write computer programs. We'll also discuss online communities programmers rely on for problem-solving and learning, and highlight the highly-collaborative world of open source software. Many coders around today got their start with programming as a secondary or later-in-life skill, and we'll close by overviewing a few common paths to getting started learning how to program.
+- person_key: grace
+  seminar: "September 2024"
+  title: Herbicides, herbivores, and agricultural weeds
+  abstract: Agricultural weeds are a significant threat to global food security because they can greatly reduce crop yield. To combat this problem, farmers generally rely on chemical herbicides. This has led to the evolution of herbicide resistance in many weedy species, reducing the effectiveness of herbicide as a form of weed control. But weeds don't exist in a vacuum; in addition to herbicide, they must contend with natural insect herbivory. Using the common morning glory, I investigate how resistance to herbicide and herbivory may affect plant ecology and evolution, as well as the molecular mechanisms underlying these forms of resistance. By better understanding how weeds respond to multiple stressors, we can improve management methods and reduce the impact of weeds on agricultural yield.
+- person_key: kristen
+  seminar: "September 2024"
+  title: Bird evolution and museums
+  abstract: Natural history museums are institutions for public education and scientific research. In this talk, I discuss two different branches of research on avian evolution utilizing natural history collections. First, a long-term series of migratory bird specimens salvaged by volunteers in Chicago reveals assemblage-wide morphological changes in bird size and shape in response to global warming. Second, genomic studies of Neotropical tanagers reveal how qualitatively different landscapes promote speciation, with stable and more effective barriers in the tropical Andes mountains driving elevated levels of population divergence relative to the dynamic and less effective river barriers in adjacent lowland Amazonia.
 - person_key: abbey
   seminar: "April 2024"
   title: From bugs and slugs to plant metabolomics
@@ -35,15 +23,27 @@
   title: Where in the world did your ancestors live?
   abstract: |
     Where did your ancestors come from? How have they moved across the planet, and what information can we use to answer these questions? In this talk, I examine two ubiquitous patterns in nature: the increase in pedigree ancestors you have backward in time, and the rapid rate at which your ancestors disperse across the planet. Coupling these, we can generate mathematical models for predicting the barriers to movement, how big historical population sizes were, and the geographic origin of the human species.
-- person_key: matthew
-  seminar: "September 2024"
-  title: Intro to Scientific Software
-  abstract: What is computer programming needed for science? These days, most researchers rely on at least some computer coding for data analysis, simulations, and problem solving. Outside of science, computer programming is becoming a more and more useful skill, too. Getting started isn't as hard as you might think. In this talk, we'll demystify what computer programming is and what it's like to write computer programs. We'll also discuss online communities programmers rely on for problem-solving and learning, and highlight the highly-collaborative world of open source software. Many coders around today got their start with programming as a secondary or later-in-life skill, and we'll close by overviewing a few common paths to getting started learning how to program.
-- person_key: grace
-  seminar: "September 2024"
-  title: Herbicides, herbivores, and agricultural weeds
-  abstract: Agricultural weeds are a significant threat to global food security because they can greatly reduce crop yield. To combat this problem, farmers generally rely on chemical herbicides. This has led to the evolution of herbicide resistance in many weedy species, reducing the effectiveness of herbicide as a form of weed control. But weeds don't exist in a vacuum; in addition to herbicide, they must contend with natural insect herbivory. Using the common morning glory, I investigate how resistance to herbicide and herbivory may affect plant ecology and evolution, as well as the molecular mechanisms underlying these forms of resistance. By better understanding how weeds respond to multiple stressors, we can improve management methods and reduce the impact of weeds on agricultural yield.
-- person_key: kristen
-  seminar: "September 2024"
-  title: Bird evolution and museums
-  abstract: Natural history museums are institutions for public education and scientific research. In this talk, I discuss two different branches of research on avian evolution utilizing natural history collections. First, a long-term series of migratory bird specimens salvaged by volunteers in Chicago reveals assemblage-wide morphological changes in bird size and shape in response to global warming. Second, genomic studies of Neotropical tanagers reveal how qualitatively different landscapes promote speciation, with stable and more effective barriers in the tropical Andes mountains driving elevated levels of population divergence relative to the dynamic and less effective river barriers in adjacent lowland Amazonia.
+- person_key: mia
+  seminar: "February 2024"
+  title: Uncovering the importance of the plant microbiome
+  abstract: Microorganisms are everywhere, from the soil beneath your feet to inside the bodies of plants and animals. Despite their abundance, we are still understanding the important functions microorganisms play in host ecology and evolution. My research explores how soil-dwelling microbes can help plants cope with stresses such as drought and protect themselves against herbivore attacks. By expanding our understanding of the microbial world beneath our feet, we may be able to develop more effective and sustainable agricultural practices.
+- person_key: rosy
+  seminar: "February 2024"
+  title: The Wild World of Plant Hairs
+  abstract: Plants can't run away from the things that want to eat them, but they can still defend themselves! Many plants do this by producing hairs, technically known as trichomes, that damage, catch, or even poison potential plant consumers. Trichomes come in all shapes and sizes, but we know surprisingly little about how they function and evolve over time. My research focuses on the elaborate barbed trichomes produced by a group of plants called “stickleafs” or “blazingstars” (family Loasaceae).  I study how they vary across species and how they help the plants defend themselves. Along the way, I've learned a lot about plant-insect interactions, survival in harsh environments, and the extraordinary diversity of life on earth.
+- person_key: andrea
+  seminar: "February 2024"
+  title: Bird Migration
+  abstract: Learning about the whereabouts of birds throughout their migration journeys is important to identify locations for conservation since many populations are experiencing declines. Range maps and geolocators are two ways to do this, and in my master's thesis, I compared both methods to see how well they characterized avian movement patterns. I also talked about my background, how I got to graduate school, and organizations I'm interested in working for when I graduate.
+- person_key: roberto
+  seminar: "November 2023"
+  title: How to make a toxic frog?
+  abstract: Animals use toxins for a variety of purposes, such as avoiding predation or hunting prey. However, in order to do this, they need to be able to avoid their own toxin's noxious effects. In this talk I first discuss my work on how poison frogs are able to resist their own powerful toxins, and what this can teach us to successfully and safely use toxins for human purposes, such as medicine and agriculture. Second, I share some of the "daily life" aspects of my job as a scientist, as well as some of the common career paths taken by people with a STEM education.
+- person_key: jill
+  seminar: "November 2023"
+  title: What can under-studied fungi teach us about fundamental life processes?
+  abstract: Much of Fungal diversity has been underappreciated, and under-represented, in research; the same is true for viral diversity. In this talk, I argue that by studying these under-represented entities, we not only gain new knowledge but the kind of knowledge that we gain changes some of our fundamental understandings about both fungi and viruses altogether, and even beyond.
+- person_key: anah
+  seminar: "September 2023"
+  title: How does agriculture affect wild plants?
+  abstract: I became a scientist because I like to figure things out and solve problems. I started to become interested in herbicides impact on the environment when I began working in a lab at University of Michigan. The herbicide Dicamba poses many problems in agriculture because once it has been sprayed on weeds, it can evaporate and spread onto wild plants. However, because it is being spread in the air, it is affecting plants at a much lower dose than what is recommended in the field. This can lead to all kinds of unexpected impacts. By using the scientific method, I can observe how some plants react to dicamba and analyze how they express their genes differently.
