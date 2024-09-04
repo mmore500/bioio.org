@@ -16,7 +16,7 @@ After the talks, we open up for a **discussion panel** where incarcerated studen
 
 *See below for a listing of our past and upcoming seminars and presenters.*
 
-{% assign seminars = site.data.presentations | sort: "seminar" | map: "seminar" | uniq %}
+{% assign seminars = site.data.presentations | map: "seminar" | uniq %}
 
 {% for seminar in seminars %}
   <h1> {{ seminar }} </h1>
