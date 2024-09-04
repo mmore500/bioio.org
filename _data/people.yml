@@ -14,6 +14,7 @@
     - organizer
     - panelist-2023-09
     - panelist-2023-11
+    - presenter-2024-09
   bio: My research interests are in applying computer simulation to study the evolution of evolvability. I am also passionate about software engineering and spend a lot of my time writing code!
   institution: Ecology and Evolutionary Biology, Complex Systems, Michigan Institute of Data Science
 - key: roberto
@@ -31,6 +32,7 @@
     - panelist-2023-09
     - panelist-2023-11
     - presenter-2024-04
+    - panelist-2024-09
   bio:  I am a scientist and an activist. As a scientist, I study plant-insect interactions. Plants and insects make up the greatest number of described species on Earth, excluding bacteria. My research interests lie at the intersection of these two groups and how chemicals produced by plants influence their interactions and larger patterns of biodiversity. As an activist, I seek to bridge science and social justice advocacy by providing opportunities for knowledge exchange between academic researchers and incarcerated persons. I strongly believe scientific knowledge should be for all, and I hope to expand our work with bI/O and help establish similar programs at higher institutions around the country.
   institution: "<i>Founding/Lead Organizer</i> | Ecology and Evolutionary Biology, Synthesis of Metabolomics in Life Sciences and Ecology (sMiLE)"
 - key: jill
@@ -78,3 +80,17 @@
     - presenter-2024-04
   institution: Ecology and Evolutionary Biology
   bio: Evolutionary biologist specializing in population genetics. I am passionate about evolution education, the history and philosophy of science, and confronting misinformation about science. I run a YouTube channel (talkpopgen) dedicated to this. My research focuses on understanding ancestry and how organisms migrate across complex landscapes.
+- key: grace
+  nick: Grace
+  stage: graduate student
+  role:
+    - presenter-2024-09
+  institution: Ecology and Evolutionary Biology
+  bio:
+- key: kristen
+  nick: Kristen
+  stage: graduate student
+  role:
+    - presenter-2024-09
+  institution: Ecology and Evolutionary Biology
+  bio: I am an evolutionary biologist who uses genomics to understand how speciation plays out in different landscapes (with a focus on Neotropical birds), and what that can tell us about the mechanistic basis of broadscale biodiversity gradients. My research utilizes specimens from natural history collections, so I am also passionate about building and maintaining museums as scientific resources and using museums for public outreach and education.
