@@ -16,6 +16,8 @@ description:
 {% assign panelists2024apr = site.data.people | where_exp: "person", "person.role contains 'panelist-2024-04'" | sort: "nick" %}
 {% assign presenters2024sep = site.data.people | where_exp: "person", "person.role contains 'presenter-2024-09'" | sort: "nick" %}
 {% assign panelists2024sep = site.data.people | where_exp: "person", "person.role contains 'panelist-2024-09'" | sort: "nick" %}
+{% assign presenters2024dec = site.data.people | where_exp: "person", "person.role contains 'presenter-2024-12'" | sort: "nick" %}
+{% assign panelists2024dec = site.data.people | where_exp: "person", "person.role contains 'panelist-2024-12'" | sort: "nick" %}
 
 # Organizers
 ---
@@ -24,6 +26,25 @@ description:
   {% include person.html %}
 
 {% endfor %}
+
+# December 2024 Seminar
+---
+
+## Presenters
+
+{% for person in presenters2024dec %}
+
+  {% include person.html %}
+
+{% endfor %}
+
+<!-- ## Panelists
+
+{% for person in panelists2024dec %}
+
+  {% include person.html %}
+
+{% endfor %} -->
 
 # September 2024 Seminar
 ---
