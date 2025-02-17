@@ -116,3 +116,24 @@
     - presenter-2024-12
   institution: Ecology and Evolutionary Biology
   bio: I am an evolutionary biologist and herpetologist interested in what explains the incredible diversity of forms we see and why some groups show greater morphological diversity than others. My current focus is on skeletal changes associated with limb reduction and elongation in lizards and snakes. I am also part of the Museum Studies Program where I am passionate about creating more equitable museums.
+- key: emma
+  nick: Emma
+  stage: graduate student
+  role:
+    - presenter-2025-02
+  institution: Ecology and Evolutionary Biology
+  bio: Emma is a 2nd year PhD student in the Ecology and Evolutionary Biology department. She graduated from University of Minnesota (go gophers!) with a BS in Plant and Microbial Biology in 2020. She is currently interested in biofilm-phage interactions and how niche co-construction impacts short and long term coevolutionary dynamics. She is interested in applying these ideas to both medical (phage therapy) and agricultural (plant growth promoting bacteria) systems.
+- key: tom
+  nick: Tom
+  stage: postdoc
+  role:
+    - presenter-2025-02
+  institution: Ecology and Evolutionary Biology
+  bio: I am a botanist and evolutionary biologist who uses plant DNA, and sometimes fossils, to understand when and why plants evolved into over 400,000 different species. I like developing new methods that aim to answer these questions better, but am also interested in understanding theoretical limits to what we can ever understand about evolutionary history. Lots of evolution happened hundreds of millions of years ago, which means that some parts of evolution are very difficult (or impossible!) to estimate.
+- key: rosa
+  nick: Rosa
+  stage: graduate student
+  role:
+    - presenter-2025-02
+  institution: Biopsychology
+  bio: I am a primatologist studying the evolution of social cognition and behavior, with a focus on social dominance and possessive behavior. By comparing closely related macaque species, such as rhesus and Barbary macaques, I explore how differences in social structure shape cognition and behavior. Previously, I investigated the use of communication signals in food sharing events with the chimpanzees at the Los Angeles Zoo.
