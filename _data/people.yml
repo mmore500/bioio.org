@@ -104,11 +104,11 @@
   bio: ""
 - key: kira
   nick: Kira
-  stage: graduate student
+  stage: lab mabger
   role:
     - presenter-2024-12
   institution: Ecology and Evolutionary Biology
-  bio: ""
+  bio: "I am a lab manager who researches microscopic animals called zooplankton in local lakes and studies how they can become infected with parasites. Plankton is a classification for any organism that can’t swim against horizontal currents in the water. Animals, plants, and even viruses can all be considered plankton!"
 - key: natasha
   nick: Natasha
   stage: graduate student
