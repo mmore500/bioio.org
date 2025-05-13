@@ -137,3 +137,24 @@
     - presenter-2025-02
   institution: Biopsychology
   bio: I am a primatologist studying the evolution of social cognition and behavior, with a focus on social dominance and possessive behavior. By comparing closely related macaque species, such as rhesus and Barbary macaques, I explore how differences in social structure shape cognition and behavior. Previously, I investigated the use of communication signals in food sharing events with the chimpanzees at the Los Angeles Zoo.
+- key: simone
+  nick: Simone
+  stage: graduate student
+  role:
+    - presenter-2025-04
+  institution: Ecology and Evolutionary Biology
+  bio: Simone is a 4th year PhD student who studies tropical plants. Born in Jamaica, she seeks to understand the ecological dynamics of climbing plants in the Caribbean.
+- key: michelle
+  nick: Michelle
+  stage: research lab technician
+  role:
+    - presenter-2025-04
+  bio: Michelle is a research laboratory technician in the Ecology and Evolutionary Biology department at University of Michigan
+  institution: Ecology and Evolutionary Biology
+- key: lizy
+  nick: Lizy
+  stage: lab manager
+  role:
+    - presenter-2025-04
+  institution: Ecology and Evolutionary Biology
+  bio: Lizy is a lab manager in the Ecology and Evolutionary Biology department at University of Michigan.
